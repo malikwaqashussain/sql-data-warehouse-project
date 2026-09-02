@@ -1,4 +1,4 @@
-Data Warehouse and Analytics Project
+**Data Warehouse and Analytics Project**
 Welcome to the Data Warehouse and Analytics Project repository! 🚀  
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 ---
@@ -15,6 +15,7 @@ Data Architecture: Designing a Modern Data Warehouse Using Medallion Architectur
 ETL Pipelines: Extracting, transforming, and loading data from source systems into the warehouse.
 Data Modeling: Developing fact and dimension tables optimized for analytical queries.
 Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights.
+
 🎯 This repository is an excellent resource for professionals and students looking to showcase expertise in:
 SQL Development
 Data Architect
@@ -85,3 +86,4 @@ This project is licensed under the MIT License. You are free to use, modify, and
 🌟 About Me
 Waqas Hussain
 Data Analyst
+**
