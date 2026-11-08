@@ -1,7 +1,8 @@
 Data Warehouse and Analytics Project:
+
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 ---
-🏗️ Data Architecture
+🏗️ Data Architecture:
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers:
  <img width="975" height="475" alt="image" src="https://github.com/user-attachments/assets/c6c4aa06-2cb1-4c30-b3ad-8da91047097d" />
 
@@ -10,9 +11,11 @@ Bronze Layer: Stores raw data as-is from the source systems. Data is ingested fr
 Silver Layer: This layer includes data cleaning, standardization, and normalization processes to prepare data for analysis.
 
 Gold Layer: Warehouse business-ready data modeled into a star schema required for reporting and analytics.
+
 ---
 📖 Project Overview
 This project involves:
+
 Data Architecture: Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
 ETL Pipelines: Extracting, transforming, and loading data from source systems into the warehouse.
 Data Modeling: Developing fact and dimension tables optimized for analytical queries.
@@ -21,6 +24,7 @@ Analytics & Reporting: Creating SQL-based reports and dashboards for actionable 
 <img width="975" height="495" alt="image" src="https://github.com/user-attachments/assets/87cf56fa-87c0-4db7-b353-2dc252e0eb9d" />
 
 🎯 This repository is an excellent resource for professionals and students looking to showcase expertise in:
+
 •	SQL Development
 •	Data Architect
 •	Data Engineering
@@ -31,6 +35,7 @@ Analytics & Reporting: Creating SQL-based reports and dashboards for actionable 
 🛠️ Important Links & Tools:
 
 Datasets: Access to the project dataset (csv files).
+
 SQL Server Express: Lightweight server for hosting your SQL database.
 SQL Server Management Studio (SSMS): GUI for managing and interacting with databases.
 Git Repository: Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
@@ -39,9 +44,12 @@ Notion: All-in-one tool for project management and organization.
 Notion Project Steps: Access to All Project Phases and Tasks.
 https://app.notion.com/p/Data-Warehouse-412c38854f43802e8cc5eb19bd0753c1?source=copy_link
 ---
-🚀 Project Requirements
+
+🚀 Project Requirements:
 Building the Data Warehouse (Data Engineering)
-Objective
+
+Objective:
+
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
 Specifications
 Data Sources: Import data from two source systems (ERP and CRM) provided as CSV files.
@@ -51,7 +59,7 @@ Scope: Focus on the latest dataset only; historization of data is not required.
 Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 ---
 BI: Analytics & Reporting (Data Analysis)
-Objective
+Objective:
 Develop SQL-based analytics to deliver detailed insights into:
 Customer Behavior
 Product Performance
