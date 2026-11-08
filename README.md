@@ -6,8 +6,10 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
  <img width="975" height="475" alt="image" src="https://github.com/user-attachments/assets/c6c4aa06-2cb1-4c30-b3ad-8da91047097d" />
 
 Bronze Layer: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
-Silver Layer: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
-Gold Layer: Houses business-ready data modeled into a star schema required for reporting and analytics.
+
+Silver Layer: This layer includes data cleaning, standardization, and normalization processes to prepare data for analysis.
+
+Gold Layer: Warehouse business-ready data modeled into a star schema required for reporting and analytics.
 ---
 📖 Project Overview
 This project involves:
@@ -27,7 +29,7 @@ Analytics & Reporting: Creating SQL-based reports and dashboards for actionable 
 •	Data Analytics
 ---
 🛠️ Important Links & Tools:
-Everything is for Free!
+
 Datasets: Access to the project dataset (csv files).
 SQL Server Express: Lightweight server for hosting your SQL database.
 SQL Server Management Studio (SSMS): GUI for managing and interacting with databases.
@@ -35,6 +37,7 @@ Git Repository: Set up a GitHub account and repository to manage, version, and c
 DrawIO: Design data architecture, models, flows, and diagrams.
 Notion: All-in-one tool for project management and organization.
 Notion Project Steps: Access to All Project Phases and Tasks.
+https://app.notion.com/p/Data-Warehouse-412c38854f43802e8cc5eb19bd0753c1?source=copy_link
 ---
 🚀 Project Requirements
 Building the Data Warehouse (Data Engineering)
