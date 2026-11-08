@@ -1,7 +1,9 @@
 Data Warehouse and Analytics Project:
 
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
+
 ---
+
 🏗️ Data Architecture:
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers:
  <img width="975" height="475" alt="image" src="https://github.com/user-attachments/assets/c6c4aa06-2cb1-4c30-b3ad-8da91047097d" />
@@ -11,6 +13,7 @@ Bronze Layer: Stores raw data as-is from the source systems. Data is ingested fr
 Silver Layer: This layer includes data cleaning, standardization, and normalization processes to prepare data for analysis.
 
 Gold Layer: Warehouse business-ready data modeled into a star schema required for reporting and analytics.
+
 ---
 
 📖 Project Overview:
@@ -31,6 +34,7 @@ Analytics & Reporting: Creating SQL-based reports and dashboards for actionable 
 •	ETL Pipeline Developer
 •	Data Modeling
 •	Data Analytics
+
 ---
 
 🛠️ Important Links & Tools:
@@ -43,6 +47,7 @@ DrawIO: Design data architecture, models, flows, and diagrams.
 Notion: All-in-one tool for project management and organization.
 Notion Project Steps: Access to All Project Phases and Tasks.
 https://app.notion.com/p/Data-Warehouse-412c38854f43802e8cc5eb19bd0753c1?source=copy_link
+
 ---
 
 🚀 Project Requirements:
@@ -56,6 +61,7 @@ Data Quality: Cleanse and resolve data quality issues prior to analysis.
 Integration: Combine both sources into a single, user-friendly data model designed for analytical queries.
 Scope: Focus on the latest dataset only; historization of data is not required.
 Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
+
 ---
 BI: Analytics & Reporting (Data Analysis)
 Objective:
@@ -66,7 +72,9 @@ Product Performance
 Sales Trends
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 For more details, refer to docs/requirements.md.
+
 📂 Repository Structure
+
 ```
 data-warehouse-project/
 │
